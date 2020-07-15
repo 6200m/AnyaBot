@@ -1,17 +1,16 @@
 # Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# bin-debug/
+# bin-release/
+# [Oo]bj/
+# [Bb]in/
+# I commented everything above this, as I don't really need those. So everything above, is just merely code backup.
 
 # Other files and folders
-.settings/
+bin-debug\token.js
 
 # Executables
-*.swf
-*.air
-*.ipa
-*.apk
+cdn/newfile.txt
+bin-release\token-obtainer.*
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
