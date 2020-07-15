@@ -1,17 +1,18 @@
+# By 6100m
+# Greetings Felk and red031000.
+# Other files and folders
+bin-debug\token.js
+
+# Executables
+cdn/compiled.txt
+bin-release\token-obtainer.*
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
 # Build and Release Folders
 # bin-debug/
 # bin-release/
 # [Oo]bj/
 # [Bb]in/
 # I commented everything above this, as I don't really need those. So everything above, is just merely code backup.
-
-# Other files and folders
-bin-debug\token.js
-
-# Executables
-cdn/newfile.txt
-bin-release\token-obtainer.*
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
