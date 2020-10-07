@@ -1,5 +1,5 @@
-# TPP-Mod-Bot
-TwitchPlaysPokemon Mod Bot for tpp-core
+# AkizaBot
+My general purpose moderation bot, this is a mess currently.
 
 
 # To compile:
