@@ -1,4 +1,4 @@
-# AkizaBot
+# AnyaBot
 My general purpose moderation bot, this is a mess currently.
 
 
