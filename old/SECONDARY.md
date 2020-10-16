@@ -1,3 +1,4 @@
+
 Step 1: Open up cygwin and go to this directory.
 Step 2: Execute "chmod 777 clean-stage1.sh" without quotations of course.
 Step 3: Execute "chmod 777 clean-stage2.sh" without quotations of course.
