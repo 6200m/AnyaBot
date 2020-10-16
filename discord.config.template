@@ -1,0 +1,4 @@
+{
+    "token": "discord_token_goes_here"
+    "blacklist_file": "blacklist.json"
+}
